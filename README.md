@@ -1,3 +1,4 @@
+Live app: https://construction-ai-platform-z4hpgubmbtpu3ydtinywzo.streamlit.app/
 # Multimodal Construction Intelligence Platform
 
 Streamlit app for PPE safety audit, crack diagnostics, cost and valuation (INR), and weather-aware site advisory. Uses Google Gemini; works in demo mode without a key.
