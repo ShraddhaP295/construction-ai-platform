@@ -213,7 +213,7 @@ def demo_chat_reply(q: str) -> str:
 
 # ───────────────────────────── Session state ─────────────────────────────
 st.session_state.setdefault("api_key", "")
-st.session_state.setdefault("model_name", "gemini-2.0-flash")
+st.session_state.setdefault("model_name", "gemini-3.5-flash-lite")
 st.session_state.setdefault("chat", [])
 
 # ───────────────────────────── Sidebar ─────────────────────────────
